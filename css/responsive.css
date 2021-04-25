@@ -134,11 +134,10 @@
 
     .web_text { font-size: 22px;}
     .donec_text { font-size: 14px; margin-right: 0px;}
-    .get_bg { display: none;}
 
     .form-control:not(:last-child) { padding-left: 10px; font-size: 16px; }
     .search_bt { padding: 7px 20px;}
-    .choose_text { font-size: 33px !impotent;}
+    .choose_text { font-size: 33px !important;}
     .lorem_text { margin-left: 0px;}
     .dolar_tetx { font-size: 34px;}
     .special_text { font-size: 17px; }
@@ -241,7 +240,7 @@ width: 41%;
 .dolar_tetx { font-size: 40px;}
 .donec_text { margin: 0px;}
 .right_section_main {
-     padding: 10px 20px 0px 20px;
+ padding: 10px 20px 0px 20px;
     margin-top: 31px;
 }
 
